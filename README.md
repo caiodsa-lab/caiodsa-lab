@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-The Future is Open Source
+The Future is Open Source. 
