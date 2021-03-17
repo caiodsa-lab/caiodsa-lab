@@ -2,4 +2,4 @@
 
 The Future is Open Source.
 
-[![Github Status](https://github-readme-stats-anuraghazra1.vercel.app/api?username=caiodsa-lab&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/caiodsa-lab)
+[![Github Status](https://github-readme-stats-anuraghazra1.vercel.app/api?username=caiodsa-lab&show_icons=true&include_all_commits=true&theme=material)](https://github.com/caiodsa-lab)
