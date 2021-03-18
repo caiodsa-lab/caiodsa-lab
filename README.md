@@ -1,4 +1,4 @@
-## Hi there, I'm Caio [(@caiodsa-lab)](https://github.com/caiodsa-lab)! 👋
+## Hi there, I'm Caio! 👋
 
  [Website](http://caiodsa-lab.github.io) | The Future is Open Source.
 
