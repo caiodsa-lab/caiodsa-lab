@@ -10,6 +10,8 @@ Thanks to the Progit Developers Team [(@progit)](https://github.com/progit)
 
 Thanks to the Atom Developers Team [(@atom)](https://github.com/atom)
 
+Thanks to the Google Developers Team [(@google)](https://github.com/google)
+
 Thanks to the System76 Developers [(@system76)](https://github.com/system76) and the Pop!\_Os Developers Team [(@pop-os)](https://github.com/pop-os)
 
 ## Peoples
