@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caiodsa-lab&show_icons=true&include_all_commits=true&count_privates=true" alt="Github Status">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodsa-lab&langs_count=10&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodsa-lab&langs_count=8&layout=compact" alt="Top Languages">
 </p>
 
 <p align="center">Made With <3 By <a href="https://github.com/caiodsa-lab">Caio Da Silva A.</a></p>
